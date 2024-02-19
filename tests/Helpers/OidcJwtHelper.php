@@ -117,7 +117,7 @@ efqXPwg2wAPYeiec49EbfnteQQKAkqNfJ9K69yE2naf6bw3/5mCBsq/cXeuaBMII
 ylysUIRBqt2J0kWm2yCpFWR7H+Ilhdx9A7ZLCqYVt8e+vjO/BOI3cQDe2VPOLPSl
 q/1PY4iJviGKddtmfClH3v4=
 -----END PRIVATE KEY-----';
-    }
+    } #gitleaks:allow
 
     public static function publicJwkKeyArray(): array
     {
